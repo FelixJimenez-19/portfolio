@@ -1,0 +1,1 @@
+para ejecutar el programa primero se debe descargar nodejs
